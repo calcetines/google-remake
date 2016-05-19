@@ -1,0 +1,112 @@
+.navbar {
+	color: #404040;
+	width: 100%;
+	height: 30px;
+	margin-top: 15px;
+}
+
+.navbar a {
+	display: inline-block;
+    float: right;
+    padding-right: 10px;
+	margin-right: 10px;
+	line-height: 30px;
+    text-decoration: none;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.navbar img {
+    width= 27px;
+    height: 27px;
+}
+
+.navbar button {
+    background: #4285F4;
+    border-radius: 0.2em;
+    border-style: none;
+    padding: 5px 10px 5px 10px;
+    margin-top: -12px;
+	font-weight: 500;
+    font-family: Verdana;
+    font-size: 13px;
+    color: white;
+}
+
+.main {
+    padding-top: 120px;
+    text-align: center;
+}
+
+.main img {
+    width: 300px;
+    height: auto;
+    margin-bottom: -30px;
+}
+
+.main form input {
+    width:650px;
+    height:35px;
+    margin-left: auto;
+    font-size: 13px;
+    margin-right: auto;
+}
+
+.main .button {
+	background-color: #F2F2F2;
+	font-size: 14px;
+    font-family: Arial,sans-serif;
+    font-weight: bold;
+	border: 1px solid #F2F2F2;
+	border-radius: 2px;
+    color: #757575;
+	padding: 10px 10px;
+    text-align: center;
+	margin-top: 50px;
+	display: inline-block;
+}
+
+.main .button:hover {
+    border: 1px solid grey;
+}
+
+.divider{
+    width: 25px;
+    height:auto;
+    display:inline-block;
+}
+
+.footer {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	height: 40px;
+	background-color: #F2F2F2;
+	border-top:	1px solid #F2F2F2;
+	line-height: 40px;
+}
+
+.footer .left {
+    float: left;
+    margin-left: 10px;
+}
+
+.footer .right {
+    float: right;
+    margin-right: 20px;
+}
+
+.footer a {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0px 15px 8px 15px;
+    text-decoration: none;
+    color: #666;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+
+
